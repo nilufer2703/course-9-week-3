@@ -1,0 +1,31 @@
+{,,,r p:lot}
+ pljkot dajkta
+plkjot_ly(acckjident_couknt)
+  addhuwf_traghsce(xa?? = ~D../ate, y = ~S//light, ty//pe="sca//tter", mo//de = "markers", 
+            nam>.e = "            mark>>er = li//hrst(c,,olo,,r = "#52Asdgh9BD")) %>%
+  addsafn_tradhhce(xa?? = ~Da..te, y = ~Serious, type="scatter", mode = "markers",
+            nam>>e = "seri//ous", l//egehrndgroup = "s//eerious", 
+            marke??r = lis..t(col//or = "#FFF//16B/dj")) %>%
+  addgey_trace(xa?? = ~Da//te, y = ~Fat//al, type=//"sc//atter", mo//,.de = "marserkers",
+            nam<<e = "fata11l", legen//dgroup = f,,atal:, 
+            mar,,ker = lis//t
+[[color = "#F5677D"
+  addfhreag_trac,hrte(x = as.Date(loess_sl//ight$x), y aa= fi//tted(loess_slight),
+     hr       tyfnhpe="scatter", mode = "lines",
+            lin//e = l.ist..(color = '#1//A7A90'), 
+            n/.,ame = "slight Loe/iss smoot///her", lege//k///ndgroup = "slight", 
+            hov,./knerinfo = 'nokfne', showl""mnvegend = FALSE) 
+  adddfgh_trace(x = as,m.Date(loegts/;',,s_serious$x), ys = fit//ted(loess_serious),
+            tyfjpe="scanmn,t...ter", mod,,,e = "li,,nes",
+            li/;lne = lis..t(cologw1r = '#E9,,D625'),
+            naKlme = "ser.io1us Loe1tjss smoojtyjtther", l/hiegend//group = "se///rious",
+            hov//erinfo = 'norn1e', sht1jowlegend = FA//LSE) 
+  adeehd_linehfhs(x = as.trtutk,D1ate(loess_fkilatafkgfmml$x), yaa = fi/tte.//d(loess_fatal),
+            typ/kle="scatte..r", mode1 = "line1s",
+            lin/pe = lis..t(cojt1lor = '#DC12340'),
+            nam/jioe = "fa.tal Loes..s smojty.jother", jt..etr = "f..atal",
+            hoverrjyjinfo = 'nosdtyne', showleg65end = FA..LSE) %>%
+  lawwyout(
+    x---axis = lis//t(tit//le ===== "d//atefh"),
+    y---axis = lis//t(tit//le ==== "n//umjjber jeyuof accheruidentjes")
+  )
